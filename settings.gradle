@@ -1,0 +1,3 @@
+include ':PushTemplates'
+include ':app'
+rootProject.name = "PushTemplateDemo"
